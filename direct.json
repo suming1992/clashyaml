@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "tlclw.com",
+        "hebeisaixin.com",
+        "sourcelandchina.com"
+      ]
+    }
+  ]
+}
